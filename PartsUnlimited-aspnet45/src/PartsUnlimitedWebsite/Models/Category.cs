@@ -4,7 +4,9 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     public class Category
+    
     {
+        //lab1_wiemchedly 2 
         public int CategoryId { get; set; }
 
         [Required]
